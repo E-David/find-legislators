@@ -1,0 +1,62 @@
+* {
+	box-sizing: border-box;
+	font-size: 0;
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+}
+
+.search {
+	font-size: 24px;
+	/* fix this */
+	margin-left: 8px;
+}
+
+.search input, .search h1 {
+	display: inline-block;
+	font-size: 1em;
+	margin: auto;
+}
+
+.legislator-container {
+	padding: 15px;
+	margin: auto;
+}
+
+.legislator-box {
+	width: 33.333%;
+	display: inline-block;
+	padding: 10px;
+}
+
+.legislator-details {
+	text-align: left;
+	background-color: #C8F7C5;
+	padding: 15px;
+}
+
+.legislator-details h1 {
+	font-size: 18px;
+}
+
+.legislator-details h2 {
+	font-size: 16px;
+}
+
+.legislator-details li {
+	font-size: 14px;
+}
+
+.legislator-details h5 {
+	font-size: 12px;
+}
+
+.legislator-details .name {
+	margin-top: 0;
+}
+
+.legislator-details .term-end{
+	margin-bottom: 0;
+}
